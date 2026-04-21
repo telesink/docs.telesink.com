@@ -2,3 +2,10 @@
 title = "Telesink Docs"
 authors = ["Kyrylo Silin"]
 language = "en"
+description = "A guide to setting up and using Telesink, a real-time event dashboard."
+
+[build]
+build-dir = "public"
+
+[output.html]
+git-repository-url = "https://github.com/telesink/docs.telesink.com"
