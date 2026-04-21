@@ -1,4 +1,4 @@
-- [Introduction](introduction0.md)
+- [Introduction](introduction.md)
 
 ## Sending Events
 
