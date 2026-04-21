@@ -29,7 +29,7 @@ Let’s get started. Know what your product is doing — right now!
 
 <hr>
 
-[Telebugs home][1] | [Live demo][2] | [GitHub][3]
+[Telesink home][1] | [Live demo][2] | [GitHub][3]
 
 [1]: https://telesink.com
 [2]: https://demo.telesink.com
